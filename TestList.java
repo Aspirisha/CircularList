@@ -1,4 +1,4 @@
-package circularlist;
+package CircularList;
 
 /**
  * Class to test the circularlist package

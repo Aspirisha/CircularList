@@ -1,4 +1,4 @@
-package circularlist;
+package CircularList;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package circularlist;
+package CircularList;
 
 /**
  * Class to create a node for a linked list
